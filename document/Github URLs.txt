@@ -7,7 +7,7 @@ In the ZIP file, please find:
 
 
 2. Setup procedures document
-   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab01/tree/main/document/MobileApp_Lab01_CathySun_SetUProcedures.docx
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab01/tree/main/document/
 
 
 
