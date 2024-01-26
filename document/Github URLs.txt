@@ -1,0 +1,13 @@
+Lab Assignment 1: Spinning Up React Native App
+
+In the ZIP file, please find:
+
+1. The IncredibleTodoListApp Project (without "node_modules" folder)
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab01/
+
+
+2. Setup procedures document
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab01/tree/main/document/MobileApp_Lab01_CathySun_SetUProcedures.docx
+
+
+
